@@ -10,6 +10,7 @@ Mod for proposing marriage.
 
 ## Compile
 
+- Images max size is 512x512.
 - Export xcf image as jpg (for convinience).
 - Export xcf image as vtf. No options different than default for now.
 - Copy WAD to mod folder, and to valve folder.
