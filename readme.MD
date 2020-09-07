@@ -11,7 +11,8 @@ Mod for proposing marriage.
 ## Compile
 
 - Images max size is 512x512.
-- Export xcf image as jpg (for convinience).
+- Export xcf image as bmp in GIMP. Make sure `Image > Mode > Indexed` is checked. When exporting, make sure `Compatiblity Options > Do not write color space information` is checked.
+- Blender material should be named as the bmp image.
 - Export xcf image as vtf. No options different than default for now.
 - Copy WAD to mod folder, and to valve folder.
 - Add WAD from valve folder to map file (c1a0).
