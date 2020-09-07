@@ -44,5 +44,3 @@ Nothing beats looking at the original Half Life code
 - https://developer.valvesoftware.com/wiki/Blender_Source_Tools_Help
 - https://www.reddit.com/r/hammer/comments/edlh9x/how_would_i_import_models_into_hammer_editor/
 
-
-C:/Program Files (x86)/Steam/steamapps/common/Half-Life/full_life/models/goose.mdl
