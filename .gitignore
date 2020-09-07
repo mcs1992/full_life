@@ -3,3 +3,6 @@
 *.max
 *.blend1
 *.smd
+*.log
+*.wc
+*.vtf-settings
