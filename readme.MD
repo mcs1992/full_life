@@ -5,17 +5,23 @@ Mod for proposing marriage.
 ## Tools
 
 - [VHLT version 34](https://sites.google.com/site/gshltools/compiler-tools) - for map compiling
-- [GIMP VTF](https://github.com/Artfunkel/gimp-vtf) - to export from gimp to vtf
 - [Wally](https://valvedev.info/tools/wally/) - for vtf and vmt management and compile to wad.
+- [Blender Source Tools](https://developer.valvesoftware.com/wiki/Blender_Source_Tools) - for exporting from Blender to SMD
 
-## Compile
+## Instructions
 
 - Images max size is 512x512.
+
+### For custom models
+
 - Export xcf image as bmp in GIMP. Make sure `Image > Mode > Indexed` is checked. When exporting, make sure `Compatiblity Options > Do not write color space information` is checked.
 - Blender material should be named as the bmp image.
-- Export xcf image as vtf. No options different than default for now.
-- Copy WAD to mod folder, and to valve folder.
+
+### For already existing entities
+
+- Add jpgs on Wally.
 - Add WAD from valve folder to map file (c1a0).
+- Copy WAD to mod folder, and to valve folder.
 
 ## The good documentation <3
 
@@ -27,6 +33,16 @@ Nothing beats looking at the original Half Life code
 - https://twhl.info/wiki/page/Tutorial%3A_Modelling_for_Goldsource
 - https://twhl.info/wiki/page/Tutorial%3A_Source_Modelling_Setup (might be too new to be good)
 - https://developer.valvesoftware.com/wiki/Studiomdl (newer version, a lot of stuff here is not needed, for example, the `-game` flag)
+- https://twhl.info/index.php/thread/view/19485
+- https://www.youtube.com/watch?v=onSeCChYR0c
+- https://www.youtube.com/watch?v=i3geWVa3hT4
+- https://www.youtube.com/watch?v=Dam1fy5Bi7A
+- https://www.youtube.com/watch?v=pe1DOPPritE
+- https://www.youtube.com/watch?v=i3geWVa3hT4
+- https://developer.valvesoftware.com/wiki/Model_Creation_Overview
+- https://developer.valvesoftware.com/wiki/Compiling_a_model
+- https://developer.valvesoftware.com/wiki/Blender_Source_Tools_Help
+- https://www.reddit.com/r/hammer/comments/edlh9x/how_would_i_import_models_into_hammer_editor/
 
 
 C:/Program Files (x86)/Steam/steamapps/common/Half-Life/full_life/models/goose.mdl
