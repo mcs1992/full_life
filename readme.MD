@@ -1,6 +1,10 @@
 # Full-Life
 
-Mod for proposing marriage.
+Half-Life mod for proposing marriage.
+
+![Cartoon when we started going out <3](screenshot1.png)
+
+![Pop the question!](screenshot2.png)
 
 ## Install
 
@@ -14,7 +18,10 @@ Mod for proposing marriage.
 ## Dev notes
 
 You don't need to follow these :) This is just happy documentation, mostly for me.
+
 I was super lucky the Half Life SDK includes one of the very first maps in the game. That is the map I modified and then introduced to the Half Life installation.
+
+![I like paper](handwritten_docs.jpg)
 
 ### Tools
 
