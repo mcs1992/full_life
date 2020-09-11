@@ -52,7 +52,7 @@ Nothing beats looking at the original Half Life code.
 
 ### Youtube
 
-- [Half Life modding tutorial series by Rolling Barrel](https://www.youtube.com/watch?v=ZcKyLVHOdkY) (The gateway for tihs mod, extremely useful tutorials)
+- [Half Life modding tutorial series by Rolling Barrel](https://www.youtube.com/watch?v=ZcKyLVHOdkY) (The gateway for this mod, extremely useful tutorials)
 - [Export from 3ds Max and importing into hammer](https://www.youtube.com/watch?v=i3geWVa3hT4)
 - [HAMMER: Advanced Tutorial #6 Part 2 Custom Models (Props)](https://www.youtube.com/watch?v=Dam1fy5Bi7A)
 - [Gamebanana.com How to add .mdl files into map (Hammer Editor)](https://www.youtube.com/watch?v=pe1DOPPritE)
